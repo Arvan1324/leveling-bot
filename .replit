@@ -1,0 +1,2 @@
+hlanguage = "nodejs"
+run = "npx node server.js"
