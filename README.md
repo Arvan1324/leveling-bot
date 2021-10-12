@@ -11,3 +11,8 @@ a leveling bot code
 - if your on glitch or replit then just use secret environment variable to hide your bot token
 - in console type `npx node server.js`
 # Your all done
+# Support me
+- [subscribe me on youtube](https://youtube.com/c/IncredibleRed)
+- [Join my Discord](https://dsc.gg/chronium-support)
+- [also join support server for help](https://dsc.gg/chronium-support)
+- ULTIMATE SUPPORT: BUY ME CLASSIC NITRO/NITRO BOOST
