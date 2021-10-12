@@ -1,5 +1,7 @@
 # leveling-bot
 a leveling bot code
+# Tutorial
+- it will be out soon™
 # Setup
 - change the files `packge.json.md` and `package-lock.json.md`
 - just remove that .md and the setup is done now.
